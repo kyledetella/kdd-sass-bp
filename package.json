@@ -1,0 +1,28 @@
+{
+  "name": "kdd-sass-boilerplate",
+  "description": "Front-end dev stack including Zurb's Foundation",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "hbs": "~2.1.0",
+    "grunt-requirejs": "0.3.5"
+  },
+  "engines": {
+    "node": "~0.10.2",
+    "npm": "~1.2.15"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-sed": "~0.1",
+    "grunt-exec": "~0.4",
+    "grunt-contrib-watch": "~0.2",
+    "grunt-contrib-requirejs": "~0.4.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-compass": "~0.5.1",
+    "semver": "~1.1.3"
+  },
+  "scripts": {
+    "start": "grunt watch"
+  }
+}
