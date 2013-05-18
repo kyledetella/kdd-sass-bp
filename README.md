@@ -16,7 +16,7 @@ Dependencies declared in <code>package.json</code> will be installed by running:
 
     $ npm install
 
-Once dependencies have been installed, `cd public` and run:
+Once dependencies have been installed, install Foundation by running:
 
     $ compass install foundation
     
