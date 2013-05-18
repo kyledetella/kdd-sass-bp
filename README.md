@@ -8,6 +8,6 @@ Dependencies declared in <code>package.json</code> will be installed by running:
 
     $ npm install
 
-Once dependencies have been installed, run:
+Once dependencies have been installed, `cd public` and run:
 
     $ compass install foundation

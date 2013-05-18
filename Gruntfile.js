@@ -64,14 +64,14 @@ module.exports = function(grunt) {
     compass: {
       dist: {
         options: {
-          config: './public/config.rb',
+          config: 'config.rb',
           environment: 'production'
         }
       },
       dev: {
         options: {
           // Target our config.rb to unify Foundation scaffolding
-          config: './public/config.rb',
+          config: 'config.rb',
           environment: 'development'
         }
       }
@@ -81,7 +81,7 @@ module.exports = function(grunt) {
     // Watch task to live update files & builds
     //
     watch: {
-      files: "./public/css/**/*.scss",
+      files: "./public/css/sass/*.scss",
       tasks: ["compass:dev"]
     }
   });
