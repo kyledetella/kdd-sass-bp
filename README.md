@@ -11,3 +11,9 @@ Dependencies declared in <code>package.json</code> will be installed by running:
 Once dependencies have been installed, `cd public` and run:
 
     $ compass install foundation
+    
+Make sure to uncomment these directories from the .gitignore file:
+    
+    public/css
+    public/js/foundation
+    public/js/vendor

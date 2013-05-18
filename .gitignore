@@ -7,9 +7,9 @@
 npm-debug.log
 node_modules
 public/css
+public/js/foundation
+public/js/vendor
 .sass-cache
 humans.txt
 MIT-LICENSE.txt
 robots.txt
-public/js/foundation
-public/js/vendor
