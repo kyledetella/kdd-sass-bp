@@ -4,7 +4,7 @@ Front-end dev stack for rapid upstart & prototyping.
 
 ## Features
   + A node.js server
-  +[ZURB's Foundation](http://foundation.zurb.com)
+  + [ZURB's Foundation](http://foundation.zurb.com)
   + AMD Module Javascript architecture
   + Basic Backbone.js scaffold
 
