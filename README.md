@@ -12,7 +12,7 @@ Front-end dev stack for rapid upstart & prototyping.
 
 
 ### Installation Instructions
-**Make sure you have installed [zurb-foundation gem](http://foundation.zurb.com/docs/sass.html) and the [grunt-cli](http://gruntjs.com/getting-started)
+**Make sure you have installed [zurb-foundation gem](http://foundation.zurb.com/docs/sass.html) and the [grunt-cli](http://gruntjs.com/getting-started)**
 
 Dependencies declared in <code>package.json</code> will be installed by running:
 
